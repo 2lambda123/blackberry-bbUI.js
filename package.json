@@ -13,6 +13,6 @@
   "dependencies": {},
   "devDependencies": {
     "clean-css": "0.9.x",
-    "uglify-js": "2.2.x"
+    "uglify-js": "3.17.x"
   }
 }
